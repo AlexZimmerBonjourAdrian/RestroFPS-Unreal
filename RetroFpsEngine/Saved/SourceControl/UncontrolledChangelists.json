@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FPSRetroDoomEngine/BP_FirsPerson_Retro.uasset",
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FirstPerson/Blueprints/BP_FirsPerson_Retro.uasset",
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FPSRetroDoomEngine/crosshairs/crosshair2_Sprite.uasset",
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FPSRetroDoomEngine/crosshairs/crosshair0_Sprite.uasset",
+				"E:/Github/RestroFPS-Unreal/RetroFpsEngine/Content/FPSRetroDoomEngine/crosshairs/crosshair8_Sprite.uasset",
 				"G:/U/RetroFpsEngine/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"G:/U/RetroFpsEngine/Content/FPSRetroDoomEngine/pistol_8.uasset",
 				"G:/U/RetroFpsEngine/Content/FPSRetroDoomEngine/first-person-pistol.uasset",
